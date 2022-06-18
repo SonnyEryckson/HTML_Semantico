@@ -1,0 +1,33 @@
+<header>
+	O <header> é utilizado para representar o cabeçalho de um documento ou seção 
+declarado no HTML. Nele podemos inserir elementos de <H1> a <h6>, ate 
+elementos para representar imagens, paragrafos ou mesmo listas de navegação. 
+
+Exemplo de uso de <header>:
+
+Nota: Difetente da tag <head>, é possivel declarar mais de um <header> por pagina.
+
+<section>
+	O <section> é utilizado para agrupar conteúdo relacionado entre si. (conteúdo independente);
+
+Nota:Cada <section> deve ser identificado, geralmente incluindo um cabeçalho (elemento <h1> 
+(en-US)- <h6> (en-US)) como um filho do elemento <section> .
+
+<article>
+	O <article> é utilizado para representar para marcar um conteúdo que se constitua em um 
+componente autossuficiente em uma página, aplicação ou site e que possa ser distribuido ou 
+reusado de forma independente (isolada), como por exemplo via sindicalização
+
+<nav>
+<aside>
+<main>
+<figure>
+<footer>
+<a>
+<em>
+<strong>
+<cite>
+<figure>  e 
+
+<figcaption>
+https://www.devmedia.com.br/html-semantico-conheca-os-elementos-semanticos-da-html5/38065#tag-section
